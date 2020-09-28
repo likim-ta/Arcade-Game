@@ -22,3 +22,5 @@ I wrote all the code in _app.js_ file.
 * Added logic to ensure player cannot move off screen
 * Modify the DOM to add scoreboard using JavaScript
 * Once player reaches water, create a timer of 250ms to move player back to original position and update the score
+
+To view the site on github pages go to https://likim-ta.github.io/Arcade-Game/
